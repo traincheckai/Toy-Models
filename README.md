@@ -1,1 +1,1 @@
-# Toy-Models
+# Toy Models
