@@ -1,0 +1,11 @@
+[package]
+name = "ml"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+average = "0.10.4"
+num = "0.1.42"
+csv = "1.1"
+serde = { version = "1", features = ["derive"] }
+
